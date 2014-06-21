@@ -3,7 +3,7 @@ package Compass::Points;
 use strict;
 use warnings;
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 our @FIELDS = qw( abbr name );
 our @NAMES = (
@@ -168,8 +168,7 @@ Simon Bertrang, E<lt>janus@cpan.orgE<gt>
 Copyright (C) 2014 by Simon Bertrang
 
 This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself, either Perl version 5.18.2 or,
-at your option, any later version of Perl 5 you may have available.
+it under the same terms as Perl itself.
 
 =cut
 
